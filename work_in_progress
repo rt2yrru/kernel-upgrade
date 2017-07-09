@@ -1,0 +1,17 @@
+
+Progress
+
+-> Idea into reality started
+-->  Coding in python
+---> apt plugin added
+----> customizing  apt to list all  available kernel
+
+
+Todo/Partially done
+
+: Directly use ubuntu kernel source
+: Parse the ubuntu kernel source 
+: Download data based on parsed file
+: Install only the relevant kernel 
+
+
