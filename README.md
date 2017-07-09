@@ -13,3 +13,10 @@ Similar works exist
 
 Check for work in progress to see current status
 
+
+
+
+
+Added 1.py as a test mechnism 
+based on https://github.com/linux-dntt1/mintupdate/blob/master/usr/lib/linuxmint/mintUpdate/checkKernels.py
+
