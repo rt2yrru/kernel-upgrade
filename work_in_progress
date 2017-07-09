@@ -15,3 +15,13 @@ Todo/Partially done
 : Install only the relevant kernel 
 
 
+Issue
+
+: As apt list only safe kernels and not the latest kernel so need an alternative way to list that
+
+example : run --> python 1.py
+
+output will start as : 4.10.x  and not as 4.12 which is the latest
+
+
+
